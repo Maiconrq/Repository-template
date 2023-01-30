@@ -6,7 +6,7 @@
 
 <div>
   <p align="center">
-    <img src="img/cicd-template.png">
+    <img src="img/cIcd-template.png">
   </p>
 </div>
 
