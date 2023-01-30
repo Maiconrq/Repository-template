@@ -13,7 +13,7 @@
 [![Série](https://img.shields.io/badge/Maiconrq-TEMPLATE-orange)](https://github.com/Maiconrq/Repository-template)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 ![language](https://img.shields.io/badge/java-language-yellow)
-![language](https://img.shields.io/badge/pyhton-language-blue)
+![language](https://img.shields.io/badge/python-language-blue)
 
 Este é um projeto desenvolvido com a utilização de CI/CD, padrão de commits e Docker Compose. O objetivo é fornecer uma solução fácil e eficiente para o desenvolvimento, implantação e execução do projeto.
 
