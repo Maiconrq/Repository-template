@@ -47,19 +47,13 @@
 > 2. Run the `docker-compose up` command in the root folder of the project
 > 3. Access the application at `http://localhost:3000`
 
-**1. Clone este repositório para sua máquina local**
- 
-**2. Execute o comando `docker-compose up` na pasta raiz do projeto**
+- For more details on how to run the project and make changes [Follow these steps](./RUNPROJECT.md).
 
-**3. Acesse a aplicação em `http://localhost:3000`**
+> 1. Clone este repositório para sua máquina local**
+> 2. Execute o comando `docker-compose up` na pasta raiz do projeto**
+> 3. Acesse a aplicação em `http://localhost:3000`**
 
-## Contribuir
-
-1. Faça um fork deste repositório
-2. Instale e configure o Commitizen seguindo as instruções na [documentação](https://github.com/commitizen/cz-cli)
-3. Crie sua feature em uma nova branch
-4. Use o comando `git cz` ao invés de `git commit` para fazer o commit da sua feature
-5. Envie um pull request para a branch `main`
+- Para mais detalhes de como rodar o projeto e fazer alterações [Siga esses passos](./RUNPROJECT.md).
 
 ## Contributing / Contribuindo
 
